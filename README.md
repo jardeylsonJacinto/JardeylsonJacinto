@@ -30,14 +30,14 @@ Feel free to contact me through LinkedIn or by email.
 <div align="center">
   <h1>My Github Stats :rocket:</h1>
 <a href="https://github.com/jardeylsonJacinto/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jardeylsonJacinto&show_icons=true&theme=dracula&card_width=490" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jardeylsonJacinto&show_icons=true&theme=dracula&card_width=400" />
 </a>
 
 <a href="https://github.com/jardeylsonJacinto/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&theme=dracula&layout=compact&langs_count=8&card_width=400" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&theme=dracula&layout=compact&langs_count=8&card_width=350" />
 </a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jardeylsonJacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=490)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jardeylsonJacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=420)](https://git.io/streak-stats)
 </div>
 
 
