@@ -14,7 +14,7 @@ If you are looking for a highly competent Fullstack programmer with a back-end f
 
 Feel free to contact me through LinkedIn or by email.
 
-<div align="center">
+<div>
   <h1>My Stack include :battery:</h1>
 
   [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=ec6231)](https://github.com/harish-sethuraman/readme-components)
@@ -27,17 +27,14 @@ Feel free to contact me through LinkedIn or by email.
 
 </div>
 
-<div align="center">
+<div>
   <h1>My Github Stats :rocket:</h1>
-<a href="https://github.com/jardeylsonJacinto/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jardeylsonJacinto&show_icons=true&theme=dracula&card_width=400" />
-</a>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jardeylsonJacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
 
 <a href="https://github.com/jardeylsonJacinto/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&theme=dracula&layout=compact&langs_count=8&card_width=350" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&theme=dracula&layout=compact&langs_count=8&card_width=400" />
 </a>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jardeylsonJacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=420)](https://git.io/streak-stats)
 </div>
 
 
