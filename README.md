@@ -17,24 +17,41 @@ Feel free to contact me through LinkedIn or by email.
 <div>
   <h1>My Stack include :battery:</h1>
 
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=html5&svgfill=ec6231)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=typescript&svgfill=1976D2)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=react&svgfill=15d8fe&animation=spin)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60)](https://github.com/harish-sethuraman/readme-components)
-  [![techstack logo](https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDb&svgfill=4CAF50)](https://github.com/harish-sethuraman/readme-components)
-
+<div align="center">
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" alt="REST" title="REST"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" alt="Bootstrap" title="Bootstrap"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186711335-a3729606-5a78-4496-9a36-06efcc74f800.png" alt="Swagger" title="Swagger"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="TypeScript" title="TypeScript"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" alt="npm" title="npm"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" alt="Node.js" title="Node.js"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express" title="Express"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/46967826/235814699-7bf7e5ce-19d1-469b-9efe-fe89412349d8.png" alt="Fastify" title="Fastify"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117208740-bfb78400-adf5-11eb-97bb-09072b6bedfc.png" alt="PostgreSQL" title="PostgreSQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" alt="MySQL" title="MySQL"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
+	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code>
+	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP"/></code>
+</div>
 </div>
 
-<div>
+<div align="center">
   <h1>My Github Stats :rocket:</h1>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jardeylsonJacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=400)](https://git.io/streak-stats)
-
-<a href="https://github.com/jardeylsonJacinto/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&theme=dracula&layout=compact&langs_count=8&card_width=400" />
+<a href="https://git.io/streak-stats">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jardeylson%20Jacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=430" alt="GitHub Streak" />
 </a>
+  
+<a href="https://github.com/jardeylsonJacinto">
+  <img width="400" height="190" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
-
-
