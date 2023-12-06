@@ -49,9 +49,9 @@ Feel free to contact me through LinkedIn or by email.
 <div align="center">
   <h1>My Github Stats :rocket:</h1>
 <a href="https://git.io/streak-stats">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Jardeylson%20Jacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=430" alt="GitHub Streak" />
+  <img height="180" src="http://github-readme-streak-stats.herokuapp.com?user=Jardeylson%20Jacinto&theme=dracula&date_format=j%20M%5B%20Y%5D&card_width=430" alt="GitHub Streak" />
 </a>
   
 <a href="https://github.com/jardeylsonJacinto">
-  <img width="400" height="190" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img height="180" loading="lazy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jardeylsonJacinto&layout=compact&langs_count=7&theme=dracula&card_width=430"/></a>
 </div>
