@@ -41,6 +41,11 @@ Feel free to contact me through LinkedIn or by email.
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884177-d48a8579-2cd0-447a-b9a6-ffc7cb02560e.png" alt="mongoDB" title="mongoDB"/></code>
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" alt="SQLite" title="SQLite"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" alt="Docker" title="Docker"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/a02b3128-cf22-487b-b1cf-d3a227bb8b75" alt="Java" title="Java"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/a5a33c70-410c-42fb-939d-adec6a86f66e" alt="Spring" title="Spring"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/f7da41cb-63a8-4a89-b101-763ade592239" alt="Rabbitmq" title="Rabbitmq"/></code>
+	<code><img width="50" src="https://github.com/user-attachments/assets/5e1abe57-349e-494a-9dc3-57ade729d9bf" alt="Hibernate" title="Hibernate"/></code>
+
 </div>
 </div>
 
